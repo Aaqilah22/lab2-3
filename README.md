@@ -15,12 +15,13 @@ LANGKAH-LANGKAH PERULANGAN
 3. Kontrol Perulangan
 
 # STRUKTUR KONDISI LATIHAN 1 
-
-![gambar](SS_(1).png)
+![gambar](ss1.png)
 
 # STRUKTUR KONDISI LATIHAN 2
-![gambar](SS 2.png)
+![gambar](ss2.png)
 
-# S
+# PERULANGAN LATIHAN 1
+![gambar](ss3.png)
 
-#
+# PERULANGAN LATIHAN 2 
+![gambar](ss4.png)
