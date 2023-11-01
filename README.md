@@ -13,3 +13,14 @@ LANGKAH-LANGKAH PERULANGAN
 2. Perulangan dengan while
 
 3. Kontrol Perulangan
+
+# STRUKTUR KONDISI LATIHAN 1 
+
+![gambar](SS 1.png)
+
+# STRUKTUR KONDISI LATIHAN 2
+![gambar](SS 2.png)
+
+# S
+
+#
