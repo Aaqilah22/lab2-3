@@ -16,7 +16,7 @@ LANGKAH-LANGKAH PERULANGAN
 
 # STRUKTUR KONDISI LATIHAN 1 
 
-![gambar](SS 1.png)
+![gambar](SS_(1).png)
 
 # STRUKTUR KONDISI LATIHAN 2
 ![gambar](SS 2.png)
