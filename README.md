@@ -26,4 +26,5 @@ LANGKAH-LANGKAH PERULANGAN
 # PERULANGAN LATIHAN 2 
 ![gambar](ss4.png)
 
-
+# FLOWCHART 
+![gambar](ss5.jpg)
