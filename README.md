@@ -14,6 +14,9 @@ LANGKAH-LANGKAH PERULANGAN
 
 3. Kontrol Perulangan
 
+# FLOWCHART
+![gambar](ss5.png)
+
 # STRUKTUR KONDISI LATIHAN 1 
 ![gambar](ss1.png)
 
